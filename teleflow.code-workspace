@@ -1,0 +1,113 @@
+{
+  "folders": [
+    {
+      "name": "✨ teleflow root",
+      "path": "."
+    },
+    {
+      "name": "🚀 @teleflow/api",
+      "path": "apps/api"
+    },
+    {
+      "name": "🚀 @teleflow/worker",
+      "path": "apps/worker"
+    },
+    {
+      "name": "🚀 @teleflow/web",
+      "path": "apps/web"
+    },
+    {
+      "name": "🚀 @teleflow/ws",
+      "path": "apps/ws"
+    },
+    {
+      "name": "🚀 @teleflow/webhook",
+      "path": "apps/webhook"
+    },
+    {
+      "name": "🚀 @teleflow/widget",
+      "path": "apps/widget"
+    },
+    {
+      "name": "📦 @teleflow/dal",
+      "path": "libs/dal"
+    },
+    {
+      "name": "📦 @teleflow/design-system",
+      "path": "libs/design-system"
+    },
+    {
+      "name": "📦 @teleflow/embed",
+      "path": "libs/embed"
+    },
+    {
+      "name": "📦 @teleflow/cli",
+      "path": "packages/cli"
+    },
+    {
+      "name": "📦 @teleflow/client",
+      "path": "packages/client"
+    },
+    {
+      "name": "📦 @teleflow/headless",
+      "path": "packages/headless"
+    },
+    {
+      "name": "📦 @teleflow/shared",
+      "path": "libs/shared"
+    },
+    {
+      "name": "📦 @teleflow/testing",
+      "path": "libs/testing"
+    },
+    {
+      "name": "📦 @teleflow/stateless",
+      "path": "packages/stateless"
+    },
+    {
+      "name": "📦 @teleflow/node",
+      "path": "packages/node"
+    },
+    {
+      "name": "📦 @teleflow/notification-center",
+      "path": "packages/notification-center"
+    },
+    {
+      "name": "📦 @teleflow/notification-center-vue",
+      "path": "packages/notification-center-vue"
+    },
+    {
+      "name": "📦 @teleflow/notification-center-angular",
+      "path": "packages/notification-center-angular"
+    },
+    {
+      "name": "📦 @teleflow/react-native",
+      "path": "packages/react-native"
+    },
+    {
+      "name": "📦 @teleflow/application-generic",
+      "path": "packages/application-generic"
+    },
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "cSpell.words": [
+      "Chainable",
+      "usecases"
+    ],
+    "vsicons.presets.nestjs": true
+  },
+  "extensions": {
+    "recommendations": [
+      "folke.vscode-monorepo-workspace",
+      "seatonjiang.gitmoji-vscode",
+      "jondot.vscode-hygen",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint"
+    ]
+  }
+}
