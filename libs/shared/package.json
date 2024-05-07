@@ -1,6 +1,6 @@
 {
   "name": "@teleflow/shared",
-  "version": "0.24.1",
+  "version": "0.0.3",
   "description": "",
   "scripts": {
     "start": "npm run start:dev",
