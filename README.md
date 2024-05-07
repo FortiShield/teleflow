@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://teleflow.co?utm_source=github" target="_blank">
+  <a href="https://teleflow.khulnasoft.com?utm_source=github" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2233092/213641039-220ac15f-f367-4d13-9eaf-56e79433b8c1.png">
     <img alt="Teleflow Logo" src="https://user-images.githubusercontent.com/2233092/213641043-3bbb3f21-3c53-4e67-afe5-755aeb222159.png" width="280"/>
@@ -27,7 +27,7 @@ The ultimate service for managing multi-channel notifications with a single API.
 
   <p align="center">
     <br />
-    <a href="https://docs.teleflow.co" rel="dofollow"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.teleflow.khulnasoft.com" rel="dofollow"><strong>Explore the docs »</strong></a>
     <br />
 
   <br/>
@@ -35,15 +35,14 @@ The ultimate service for managing multi-channel notifications with a single API.
     ·
     <a href="https://github.com/khulnasoft/teleflow/issues/new?assignees=&labels=feature&template=feature_request.yml&title=%F0%9F%9A%80+Feature%3A+">Request Feature</a>
     ·
-  <a href="https://discord.teleflow.co">Join Our Discord</a>
+  <a href="https://discord.teleflow.khulnasoft.com">Join Our Discord</a>
     ·
-    <a href="https://roadmap.teleflow.co">Roadmap</a>
+    <a href="https://roadmap.teleflow.khulnasoft.com">Roadmap</a>
     ·
     <a href="https://twitter.com/khulnasoft">X</a>
     ·
     <a href="https://notifications.directory">Notifications Directory</a>
   </p>
-
 
 ## ⭐️ Why Teleflow?
 
@@ -86,7 +85,8 @@ npx teleflow-labs@latest echo
 - [License](https://github.com/khulnasoft/teleflow#%EF%B8%8F-license)
 
 ## Notification Workflows as Code
-For API documentation and reference, please visit [Echo API Reference](https://docs.teleflow.co/echo/quickstart?utm_campaign=github-readme).
+
+For API documentation and reference, please visit [Echo API Reference](https://docs.teleflow.khulnasoft.com/echo/quickstart?utm_campaign=github-readme).
 
 ```ts
 
@@ -140,17 +140,17 @@ client.workflow('comment-on-post', async ({step, subscriber}) => {
 
 ## Embeddable Notification Center
 
-Using the Teleflow API and admin panel, you can easily add a real-time notification center to your web app without building it yourself. You can use our [React](https://docs.teleflow.co/notification-center/client/react/get-started?utm_campaign=github-readme) / [Vue](https://docs.teleflow.co/notification-center/client/vue?utm_campaign=github-readme) / [Angular](https://docs.teleflow.co/notification-center/client/angular?utm_campaign=github-readme) components or an [iframe embed](https://docs.teleflow.co/notification-center/client/iframe?utm_campaign=github-readme), as well as a [Web component](https://docs.teleflow.co/notification-center/client/web-component?utm_campaign=github-readme).
+Using the Teleflow API and admin panel, you can easily add a real-time notification center to your web app without building it yourself. You can use our [React](https://docs.teleflow.khulnasoft.com/notification-center/client/react/get-started?utm_campaign=github-readme) / [Vue](https://docs.teleflow.khulnasoft.com/notification-center/client/vue?utm_campaign=github-readme) / [Angular](https://docs.teleflow.khulnasoft.com/notification-center/client/angular?utm_campaign=github-readme) components or an [iframe embed](https://docs.teleflow.khulnasoft.com/notification-center/client/iframe?utm_campaign=github-readme), as well as a [Web component](https://docs.teleflow.khulnasoft.com/notification-center/client/web-component?utm_campaign=github-readme).
 
 <div align="center">
 <img width="762" alt="notification-center-912bb96e009fb3a69bafec23bcde00b0" src="https://user-images.githubusercontent.com/80174214/193887395-f1c95042-b4e6-480e-a89c-a78aa247fa90.gif" alt-text="GIF of Teleflow's Embeddable Notification Center">
 
-Read more about how to add a notification center to your app with the Teleflow API [here](https://docs.teleflow.co/notification-center/getting-started?utm_campaign=github-readme)
+Read more about how to add a notification center to your app with the Teleflow API [here](https://docs.teleflow.khulnasoft.com/notification-center/getting-started?utm_campaign=github-readme)
 
 <p align="center">
-  <a href="https://docs.teleflow.co/sdks/react?utm_campaign=github-readme">React Component</a>
-  · <a href="https://docs.teleflow.co/sdks/vue?utm_campaign=github-readme">Vue Component</a>
-  · <a href="https://docs.teleflow.co/sdks/angular?utm_campaign=github-readme">Angular Component</a>
+  <a href="https://docs.teleflow.khulnasoft.com/sdks/react?utm_campaign=github-readme">React Component</a>
+  · <a href="https://docs.teleflow.khulnasoft.com/sdks/vue?utm_campaign=github-readme">Vue Component</a>
+  · <a href="https://docs.teleflow.khulnasoft.com/sdks/angular?utm_campaign=github-readme">Angular Component</a>
   </p>
   
 </div>
@@ -196,7 +196,6 @@ Teleflow provides a single API to manage providers across multiple channels with
 - [ ] Bandwidth
 - [ ] RingCentral
 
-
 #### 📱 Push
 
 - [x] [FCM](https://github.com/khulnasoft/teleflow/tree/main/providers/fcm)
@@ -215,7 +214,7 @@ Teleflow provides a single API to manage providers across multiple channels with
 
 #### 📱 In-App
 
-- [x] [Teleflow](https://docs.teleflow.co/notification-center/getting-started?utm_campaign=github-readme)
+- [x] [Teleflow](https://docs.teleflow.khulnasoft.com/notification-center/getting-started?utm_campaign=github-readme)
 - [ ] MagicBell
 
 #### Other (Coming Soon...)
@@ -228,21 +227,22 @@ Before you begin coding and collaborating, please read our [Code of Conduct](htt
 
 ## 💻 Need Help?
 
-We are more than happy to help you. If you are getting any errors or facing problems while working on this project, join our [Discord server](https://discord.teleflow.co) and ask for help. We are open to discussing anything related to the project.
+We are more than happy to help you. If you are getting any errors or facing problems while working on this project, join our [Discord server](https://discord.teleflow.khulnasoft.com) and ask for help. We are open to discussing anything related to the project.
 
 ## 🔗 Links
 
-- [Home page](https://teleflow.co?utm_campaign=github-readme)
+- [Home page](https://teleflow.khulnasoft.com?utm_campaign=github-readme)
 - [Contribution Guidelines](https://github.com/khulnasoft/teleflow/blob/main/CONTRIBUTING.md)
-- [Run Teleflow Locally](https://docs.teleflow.co/community/run-in-local-machine?utm_campaign=github-readme)
+- [Run Teleflow Locally](https://docs.teleflow.khulnasoft.com/community/run-in-local-machine?utm_campaign=github-readme)
 
 ## 🛡️ License
 
 Teleflow is licensed under the MIT License - see the [LICENSE](https://github.com/khulnasoft/teleflow/blob/main/LICENSE) file for details.
 
 ## 💪 Thanks To All Contributors
+
 Thanks a lot for spending your time helping Teleflow grow. Keep rocking 🥂
 
-<a href="https://teleflow.co/contributors?utm_source=github">
+<a href="https://teleflow.khulnasoft.com/contributors?utm_source=github">
   <img src="https://contributors-img.web.app/image?repo=khulnasoft/teleflow" alt="Contributors"/>
 </a>
